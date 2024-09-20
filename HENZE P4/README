@@ -1,0 +1,17 @@
+T1 T2 and T3 tokens stored as leaf nodes on non terminals with strings stored in the token type node.
+Various test files included to test all possible forks.
+
+IT APPEARS TO BE WORKING!
+Successfully generating assembly that runs on umsl portal.
+works with all included test files, which should test all possible individual node paths
+output saved to OUTPUT.asm
+
+performs sample code from project pdf corectly, saved as data6
+
+data8 is the most functional code I could stand to write.
+data8:
+	read in X value from user to store
+	read in N value from user for loop counter
+	loop N number of times, each time adding 1 to X
+	After loop print X
+	if X is now greater than N then print X + N
