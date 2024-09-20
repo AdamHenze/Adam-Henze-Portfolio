@@ -1,0 +1,12 @@
+largeBP: continuous.
+largeROE: continuous.
+largeSP: continuous.
+largeReturnLastQuarter: continuous.
+largeMarketValue: continuous.
+smallSystematicRisk: continuous.
+annualReturn: continuous.
+excessReturn: continuous.
+systematicRisk: continuous.
+totalRisk: continuous.
+absWinRate: continuous.
+relWinRate: continuous.
